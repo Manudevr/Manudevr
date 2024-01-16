@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manudevr
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript and C.
+- 🌱 I’m currently learning Java + Spring.
 - 💞️ I’m looking to collaborate on International Startups.
 - 📫 How to reach me emanuel.em828@gmail.com.
 
